@@ -1,0 +1,10 @@
+.flexcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.header {
+  text-align: center;
+  background-color: rgba(0, 200, 0, 0.5);
+}
